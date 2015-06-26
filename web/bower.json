@@ -1,0 +1,8 @@
+{
+  "name": "web",
+  "version": "1",
+  "dependencies": {
+    "yawp": "*"
+  }
+}
+
