@@ -9,3 +9,6 @@ appengine-generated
 *.jar
 *.war
 *.ear
+
+npm-debug.log
+node
