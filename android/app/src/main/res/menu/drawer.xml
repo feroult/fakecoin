@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/standard_app_bar_menu_item"
+            android:checked="true"
+            android:icon="@drawable/abc_ratingbar_full_material"
+            android:title="home" />
+    </group>
+</menu>
